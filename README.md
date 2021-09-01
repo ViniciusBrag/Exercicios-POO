@@ -1,2 +1,2 @@
-# Exercicios-POO
-Exercicios para Prática de Programação orientada a objetos
+# Exercicios para Prática de Programação orientada a objetos
+
